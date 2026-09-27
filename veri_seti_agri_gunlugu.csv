@@ -1,0 +1,17 @@
+﻿Tarih;Saat;Kaynak;Arama konusu;Aranan veri türü;Tahmini harcanan dakika;Uygun muydu?
+21.09.2026;;https://zenodo.org/records/2557535;Görüntü veri seti;Görüntü;52;Hayır
+21.09.2026;;https://www.kaggle.com/datasets/sonainjamil/malicious-drones;Malicious Drones;Görüntü;67;Hayır
+21.09.2026;;https://www.kaggle.com/datasets/amrithanandini/birdclef-2024-5s-spectrogram-features;BIRDCLEF 2024: 5s Spectrogram Features;Görüntü;45;Hayır
+21.09.2026;;https://www.kaggle.com/datasets/bypktt/xd-violence;XD-Violence Single-Label Edition;Görüntü;71;Hayır
+21.09.2026;;https://www.kaggle.com/datasets/orvile/ravdess-dataset;Audio-Visual Database (RAVDESS);Görüntü, Ses;59;Evet
+21.09.2026;;https://zenodo.org/records/17047248;Yapay Zeka Destekli Sürdürülebilir Tarım 2.0;Sensör;38;Hayır
+22.09.2026;;https://zenodo.org/records/19549760;Titan Mobile Fabricators;Belirsiz;64;Hayır
+22.09.2026;;https://zenodo.org/records/22794893;RFID ve araç içi diagnostik verileri;Sensör;56;Hayır
+22.09.2026;;https://www.kaggle.com/datasets/shivamb/elevator-predictive-maintenance-dataset/data;Elevator Predictive Maintenance Dataset;Sensör;48;Hayır
+24.09.2026;;https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020;Predictive Maintenance Dataset (AI4I 2020);Sensör;73;Evet
+24.09.2026;;https://www.kaggle.com/datasets/annajyang/beehive-sounds;Smart Bee Colony Monitor;Ses, Sensör;42;Hayır
+24.09.2026;;https://zenodo.org/records/7410513;CSEM-MISD Surface Defect Detection Dataset;Görüntü;61;Hayır
+24.09.2026;;https://www.kaggle.com/datasets/aiwithcagri/wind-turbine-gearbox-anomaly-detection-5year-scada;Wind Turbine Gearbox Anomaly Detection;Sensör;55;Hayır
+25.09.2026;;https://www.kaggle.com/datasets/muhammadwaqas023/predictive-maintenance-oil-and-gas-pipeline-data;Predictive maintenance oil and gas pipeline data;Sensör;69;Hayır
+25.09.2026;;https://zenodo.org/records/17547955;WDSEventDB;Sensör;36;Evet
+26.09.2026;;https://zenodo.org/records/4311175;Smartphone sensor data;Sensör;58;Hayır
