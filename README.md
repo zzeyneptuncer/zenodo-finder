@@ -60,3 +60,11 @@ Uygulama Zenodo API'den sonuçları otomatik getirir ve seçilen veri türüne g
 - `veri_seti_agri_gunlugu.csv`: Önceki arama kayıtları
 - `sonrasi_kullanim_gunlugu.csv`: Beş günlük gerçek kullanım kaydı için şablon
 - `zenodo_search.log`: Uygulama çalışma logu
+
+## Sonrasi kullanim kaniti
+
+22-27 Eylul 2026 arasinda logda 6 farkli gun ve toplam 16 arama kaydi vardir. Bu kayitlar `sonrasi_kullanim_gunlugu.csv` dosyasina aktarildi. Log aramanin yapildigini ve sonuc sayisini kanitlar; dakika kazanimi logdan hesaplanamaz. Sunumdan once aracsiz ve aracli sureleri kronometre ile olcerek CSV'deki dakika alanlarini doldur.
+
+## Acinin tek paragraf aciklamasi
+
+Bitirme projem icin veri seti arayan kisi benim. 21-26 Eylul arasinda Zenodo ve Kaggle'da arama yaparken her kaydin aciklamasini, veri turunu ve dosyalarini tek tek kontrol ettim; 16 aramada toplam 894 dakika harcadim ve uygun olmayan kayitlari eledim. Mevcut cozumum arama sitelerini ayri ayri acip sonuclari elle karsilastirmakti; takildigim nokta ayni konu icin farkli sitelerde ve farkli veri turlerinde tekrar tekrar arama yapmamdi.
