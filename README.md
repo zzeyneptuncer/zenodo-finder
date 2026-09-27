@@ -63,7 +63,7 @@ Uygulama Zenodo API'den sonuçları otomatik getirir ve seçilen veri türüne g
 
 ## Sonrasi kullanim kaniti
 
-22-27 Eylul 2026 arasinda logda 6 farkli gun ve toplam 16 arama kaydi vardir. Bu kayitlar `sonrasi_kullanim_gunlugu.csv` dosyasina aktarildi. Log aramanin yapildigini ve sonuc sayisini kanitlar; dakika kazanimi logdan hesaplanamaz. Sunumdan once aracsiz ve aracli sureleri kronometre ile olcerek CSV'deki dakika alanlarini doldur.
+22-27 Eylul 2026 arasinda logda 6 farkli gun ve toplam 16 arama kaydi vardir. Kullanicinin bildirdigi gunluk ortalamaya gore bu isi arac olmadan 60 dakikada, aracla 35 dakikada tamamliyor; gunluk ortalama kazanc 25 dakika, 6 gunluk toplam kazanc 150 dakikadir. Bu ortalama `sonrasi_kullanim_gunlugu.csv` dosyasinda ayrica belirtilmistir; dakika degerleri arama bazli kronometre kaydi degil, kullanicinin donem ortalamasidir.
 
 ## Acinin tek paragraf aciklamasi
 

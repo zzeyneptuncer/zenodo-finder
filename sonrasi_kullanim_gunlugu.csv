@@ -1,7 +1,2 @@
-Tarih;Çalıştırma sayısı;Arama konuları;Sonuç sayıları;Araçsız tahmini dakika;Araçla dakika;Kazanılan dakika;Kanıt dosyası;Notlar
-22.09.2026;2;drone, drone;0, 3;;;;zenodo_search.log;Logda iki arama var, süre ölçümü yok
-23.09.2026;1;drone;3;;;;zenodo_search.log;Logda bir arama var, süre ölçümü yok
-24.09.2026;1;Drone;1;;;;zenodo_search.log;Logda bir arama var, süre ölçümü yok
-25.09.2026;2;Ayı, Bear;0, 0;;;;zenodo_search.log;Logda iki arama var, süre ölçümü yok
-26.09.2026;2;Tarım, Tarım;0, 0;;;;zenodo_search.log;Logda iki arama var, süre ölçümü yok
-27.09.2026;8;Trafik, Trafik, Trafik, Trafic, Trafic, Traffic, Tarım, drone;1, 1, 1, 5, 5, 25, 25, 3;;;;zenodo_search.log;Logda sekiz arama var, süre ölçümü yok
+Donem;Gun sayisi;Toplam calistirma;Arac siz gunluk ortalama dakika;Aracla gunluk ortalama dakika;Gunluk ortalama kazanc;Donem toplam kazanc;Kanit dosyasi;Notlar
+22-27.09.2026;6;16;60;35;25;150;zenodo_search.log;Kullanicinin sonradan bildirdigi 6 gunluk ortalama: aracsiz 1 saat, aracla 35 dakika
